@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Rizwan Jamal - Passionate Software Engineer with the experience of 4+ years in Web & Mobile App Development.
+
 <div align="left">
     <p><a href="https://twitter.com/RjDevOfficial"><img alt="Twitter @RjDevOfficial" align="center" src="https://img.shields.io/badge/-@RjDevOfficial-gray.svg?colorA=6A788D&colorB=1da1f2&style=for-the-badge" /></a>&nbsp;<small> <strong>(follow)</strong> To get development tips & much more</small></p>
 <!--     <p><a href="https://www.youtube.com/AhmadAwais"><img alt="YouTube AhmadAwais" align="center" src="https://img.shields.io/badge/YOUTUBE-gray.svg?colorA=6A788D&colorB=6A788D&style=for-the-badge" /></a>&nbsp;<small><strong>(subscribe)</strong> Tech talks & #OneDevMinute videos</small></p> -->

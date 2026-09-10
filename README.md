@@ -1,8 +1,16 @@
 <!-- <h3 align="center">A Passionate Software Engineer with the experience of 8+ years from Pakistan 🇵🇰 </h3> -->
 <p align="center">
-  <a href="https://github.com/Rizwanjamal">
+  <!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&width=826&section=header&text=Rizwan%20Jamal&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%7C%20Next.js%20Developer&descAlignY=58&descSize=20&animation=fadeIn" />
+
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2f81f7&center=true&vCenter=true&width=600&lines=Building+fast%2C+scalable+web+apps+%F0%9F%9A%80;Next.js+%7C+React+%7C+Node.js+%7C+TypeScript;Turning+ideas+into+real-world+solutions+%E2%9C%A8;Full+Stack+Engineer+%40+UPWORK" alt="Typing SVG" />
+
+<br/>
+
+  <!--  <a href="https://github.com/Rizwanjamal">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=90&width=826&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Rizwan%20Jamal" alt="Hi 👋, I&#39;m Rizwan Jamal" />
-  </a>
+  </a> -->
 </p>
 
 <p align="center">
@@ -24,14 +32,14 @@ With 9+ years of experience in the JavaScript ecosystem, I've worked across web,
 - 📄 Hire me on <a href="https://www.upwork.com/freelancers/~01d10c23d4ffe3c658" target="blank">Upwork</a>
 - 📫 How to reach me **Rizwanmjamal@gmail.com**
 
-<br/>
-
+---
+<!--
 ### 📊 GitHub Stats
 
-<p align="center">
+ <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Rizwanjamal&show_icons=true&theme=default&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Rizwanjamal&layout=compact&theme=default&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
+</p> -->
 
 <!-- <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rizwanjamal&bg_color=00000000&color=2f81f7&line=2f81f7&point=1f2328&area=true&hide_border=true" alt="activity graph" />

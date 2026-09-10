@@ -20,17 +20,17 @@
 
 ### 🚀 About Me
 
-I help startups and growing businesses build, launch, and scale SaaS products by combining hands-on engineering with technical leadership.  
-With 9+ years of experience in the JavaScript ecosystem, I've worked across web, mobile, backend, cloud, and AI-powered applications using React, Next.js, React Native, Node.js, NestJS, TypeScript, AWS, and modern SaaS architectures.
+I help startups and growing businesses build, launch, and scale SaaS products by combining hands-on engineering with technical leadership. With 9+ years of experience in the JavaScript ecosystem, I've worked across web, mobile, backend, cloud, and AI-powered applications using React, Next.js, React Native, Node.js, NestJS, TypeScript, AWS, and modern SaaS architectures.
 <br />
 
-- 👨🏽‍💻 I’m currently working at <a href="https://expertizo.pk" target="blank">Expertizo</a> 
-- 🌱 I develop Web & Mobile Applications for my Clients
+- 👨🏽‍💻 I’m currently working as a Full Stack Engineer, developing scalable products and contributing to diverse client projects.
+- 🌱  My Current Tech Stack: **Next.js, React, React Native, TypeScript, Node.js, MongoDB, Tailwind CSS, PostgreSQL & Firebase**
 - 👨🏻‍🏫 I’m doing teaching at <a href="https://www.facebook.com/saylani.smit" target="blank">SMIT</a>
 - 📝 I write articles on <a href="https://dev.to/rizwanjamal" target="blank">Dev</a>
-- 💬 Ask me about anything, I am happy to help
+- 💬 Ask me about anything about **Next.js, React, Node.js, TypeScript, REST APIs, Supabase, Prisma, Model Context Protocol (MCP), AI Agents, and Full Stack Development**. I am happy to help :)
 - 📄 Hire me on <a href="https://www.upwork.com/freelancers/~01d10c23d4ffe3c658" target="blank">Upwork</a>
-- 📫 How to reach me **Rizwanmjamal@gmail.com**
+- 📫 How to reach me: [Rizwanmjamal@gmail.com](mailto:Rizwanmjamal@gmail.com)
+- 💼 Connect with me on LinkedIn: [@Rizwanjamal](https://www.linkedin.com/in/rizwanjamal/)
 
 ---
 <!--
